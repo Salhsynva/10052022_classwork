@@ -1,0 +1,35 @@
+.head-text-color {
+  color: white !important;
+}
+
+.head-content {
+  margin-top: 50px;
+  padding-right: 50px;
+}
+
+.heading-ph-cnt {
+  margin-top: 90px;
+}
+
+.heading-photo {
+  margin-bottom: 60px;
+}
+
+.card {
+  border: none;
+}
+
+.card-icon {
+  width: 40px;
+  height: 4vh;
+  background-color: blue;
+  border-radius: 5px;
+  text-align: center;
+  margin-left: 17px;
+}
+
+.card-icon i {
+  color: white;
+  font-size: 25px;
+}
+/*# sourceMappingURL=style.css.map */
